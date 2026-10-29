@@ -1,0 +1,12 @@
+{
+  "name": "gw-checkup",
+  "version": "1.0.0",
+  "description": "零依赖的中文公文格式自查规则（Node / 浏览器 / 微信小程序通用）",
+  "main": "gw-checkup.js",
+  "types": "gw-checkup.d.ts",
+  "files": ["gw-checkup.js", "gw-checkup.d.ts"],
+  "keywords": ["公文", "公文格式", "党政机关公文", "格式检查", "writing", "chinese-official-document"],
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/gwhub/gw-checkup" },
+  "homepage": "https://gwhub.cn"
+}
