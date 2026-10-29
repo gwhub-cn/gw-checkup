@@ -7,6 +7,6 @@
   "files": ["gw-checkup.js", "gw-checkup.d.ts"],
   "keywords": ["公文", "公文格式", "党政机关公文", "格式检查", "writing", "chinese-official-document"],
   "license": "MIT",
-  "repository": { "type": "git", "url": "https://github.com/gwhub/gw-checkup" },
+  "repository": { "type": "git", "url": "https://github.com/williamdwz/gw-checkup" },
   "homepage": "https://gwhub.cn"
 }
