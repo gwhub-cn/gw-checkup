@@ -1,6 +1,7 @@
 # gw-checkup · 公文格式自查规则
 
 > 零依赖、纯函数的中文公文格式自查工具。Node / 浏览器 / 微信小程序通用。
+> 🧪 **在线试用**：https://williamdwz.github.io/gw-checkup/ （粘贴一段公文即出结果，纯浏览器本地运行）
 > 项目主页：[gwhub.cn](https://gwhub.cn) ｜ 在线检索：[gw.gwhub.cn](https://gw.gwhub.cn)
 
 输入一段公文正文，返回一个评分和问题清单——每条问题都告诉你**为什么不规范**、**怎么改**，而不只是标个红。
